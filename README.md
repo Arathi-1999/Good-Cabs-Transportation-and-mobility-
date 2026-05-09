@@ -38,7 +38,11 @@ The dataset spans from January 1, 2024, to June 30, 2024.
     **▫️** **Kochi**, **Jaipur** and **Mysore** have highest Avg Passenger Ratings and Driver Ratings.  
     **▫️** **Surat**, **Lucknow** and **Vadodara** have lowest Avg Passenger Ratings and Driver Ratings.
 
+**4. Peak and Low Demand Month by City:**
 
+   **▫️**Peak demand month: February , April and May
+   
+   **▫️**Low demand month: January and June.
 
  **5. Weekend vs Weekday Trip Demand by City:**      **▫️** Weekday trips are highest in **Lucknow** followed by **Jaipur** and **Surat**.  
  
