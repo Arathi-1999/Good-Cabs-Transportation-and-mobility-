@@ -49,6 +49,14 @@ The dataset spans from January 1, 2024, to June 30, 2024.
    **▫️** Weekend trips are highest in **Jaipur**, **Kochi** and **Indore**.
 
  **6. Repeat Passenger Frequency and City Contribution Analysis:**
+
+  **▫️**Higher trips count like **9-trips** and **10- trips** have very less repeat trips %.
+
+  **▫️** Tourism focused cities like Jaipur, Mysore, Kochi has higher repeat trips % in lower trips count like 2 to 3-trips.
+
+  **▫️**Business focused cities like Surat, Vadodara, Coimbatore, Lucknow has more distributed trips frequency from 2-trips to 7-trips count, indicating a strong reliance on daily commuters.
+  
+  **▫️**Jaipur peaks in February and March month and hits low in January.  
  
 **1.Top Cities by Revenue Contribution:**
 Jaipur (₹37.21M), Kochi (₹17.00M), and Chandigarh (₹11.06M) are the top 3 cities by revenue contribution.
