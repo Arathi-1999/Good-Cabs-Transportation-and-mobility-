@@ -23,6 +23,27 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 ## **🔍** Insights:
 
+**1. Top Performing Cities:**  
+
+   **▫️** **Jaipur** is the top performing city with the highest total trips, followed by **Lucknow** and **Surat**. 
+   **▫️** On the other hand, **Mysore** has the lowest total trips , followed by **Coimbatore** and **Vishakapatnam**
+
+**2. Average Fare Per Trip by City:**
+
+   **▫️** **Jaipur** ranks first with an average Fare of **₹484** per trip and an average trip distance of **30km** , indicating a high fare efficiency relative to the distance.  
+ 
+   **▫️** **Surat** ranks lowest with an average Fare of **₹117** per trip and an average trip distance of **11km**, indicating a potential gap in pricing efficiency.
+
+**3.  Average Ratings by City and Passenger Type:** 
+    **▫️** **Kochi**, **Jaipur** and **Mysore** have highest Avg Passenger Ratings and Driver Ratings.  
+    **▫️** **Surat**, **Lucknow** and **Vadodara** have lowest Avg Passenger Ratings and Driver Ratings.
+
+
+
+ **5. Weekend vs Weekday Trip Demand by City:**      **▫️** Weekday trips are highest in **Lucknow** followed by **Jaipur** and **Surat**.  
+     **▫️** Weekend trips are highest in **Jaipur**, **Kochi** and **Indore**.
+
+    
 **1.Top Cities by Revenue Contribution:**
 Jaipur (₹37.21M), Kochi (₹17.00M), and Chandigarh (₹11.06M) are the top 3 cities by revenue contribution.
 
