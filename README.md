@@ -23,7 +23,7 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 ## **🔍** Insights:
 
-**1. Top Performing Cities:**  
+## 1. Top Performing Cities:
 
    **▫️** **Jaipur** is the top performing city with the highest total trips, followed by **Lucknow** and **Surat**.
    
@@ -62,6 +62,12 @@ The dataset spans from January 1, 2024, to June 30, 2024.
   
   **▫️**Jaipur peaks in February and March month and hits low in January.  
 
+**7. Monthly Target Achivement:**
+
+   **▫️** Top Performer: Visakhapatnam (Achieved near 100% targets)
+   
+   **▫️**Bottom Performer: Surat (Challenges in total trips and passenger ratings)
+   
   **8. Highest and Lowest Repeat Passenger Rate (RPR) by City and Month:**
   
    **▫️** Top 2 cities: Surat followed by Lucknow were top 2 cities with highest RPR%.
