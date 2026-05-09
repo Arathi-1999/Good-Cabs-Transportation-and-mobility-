@@ -41,9 +41,11 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 
  **5. Weekend vs Weekday Trip Demand by City:**      **▫️** Weekday trips are highest in **Lucknow** followed by **Jaipur** and **Surat**.  
-     **▫️** Weekend trips are highest in **Jaipur**, **Kochi** and **Indore**.
+ 
+   **▫️** Weekend trips are highest in **Jaipur**, **Kochi** and **Indore**.
 
-    
+ **6. Repeat Passenger Frequency and City Contribution Analysis:**
+ 
 **1.Top Cities by Revenue Contribution:**
 Jaipur (₹37.21M), Kochi (₹17.00M), and Chandigarh (₹11.06M) are the top 3 cities by revenue contribution.
 
