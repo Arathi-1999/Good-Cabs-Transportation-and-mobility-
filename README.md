@@ -25,7 +25,8 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 **1. Top Performing Cities:**  
 
-   **▫️** **Jaipur** is the top performing city with the highest total trips, followed by **Lucknow** and **Surat**. 
+   **▫️** **Jaipur** is the top performing city with the highest total trips, followed by **Lucknow** and **Surat**.
+   
    **▫️** On the other hand, **Mysore** has the lowest total trips , followed by **Coimbatore** and **Vishakapatnam**
 
 **2. Average Fare Per Trip by City:**
@@ -35,8 +36,9 @@ The dataset spans from January 1, 2024, to June 30, 2024.
    **▫️** **Surat** ranks lowest with an average Fare of **₹117** per trip and an average trip distance of **11km**, indicating a potential gap in pricing efficiency.
 
 **3.  Average Ratings by City and Passenger Type:** 
-    **▫️** **Kochi**, **Jaipur** and **Mysore** have highest Avg Passenger Ratings and Driver Ratings.  
-    **▫️** **Surat**, **Lucknow** and **Vadodara** have lowest Avg Passenger Ratings and Driver Ratings.
+   **▫️** **Kochi**, **Jaipur** and **Mysore** have highest Avg Passenger Ratings and Driver Ratings.
+   
+   **▫️** **Surat**, **Lucknow** and **Vadodara** have lowest Avg Passenger Ratings and Driver Ratings.
 
 **4. Peak and Low Demand Month by City:**
 
@@ -44,7 +46,9 @@ The dataset spans from January 1, 2024, to June 30, 2024.
    
    **▫️**Low demand month: January and June.
 
- **5. Weekend vs Weekday Trip Demand by City:**      **▫️** Weekday trips are highest in **Lucknow** followed by **Jaipur** and **Surat**.  
+ **5. Weekend vs Weekday Trip Demand by City:**
+ 
+   **▫️** Weekday trips are highest in **Lucknow** followed by **Jaipur** and **Surat**.  
  
    **▫️** Weekend trips are highest in **Jaipur**, **Kochi** and **Indore**.
 
@@ -57,6 +61,15 @@ The dataset spans from January 1, 2024, to June 30, 2024.
   **▫️**Business focused cities like Surat, Vadodara, Coimbatore, Lucknow has more distributed trips frequency from 2-trips to 7-trips count, indicating a strong reliance on daily commuters.
   
   **▫️**Jaipur peaks in February and March month and hits low in January.  
+
+  **8. Highest and Lowest Repeat Passenger Rate (RPR) by City and Month:**
+  
+   **▫️** Top 2 cities: Surat followed by Lucknow were top 2 cities with highest RPR%.
+   
+   **▫️** Bottom 2 cities: Mysore and Jaipur were the bottom 2 cities with lowest RPR%.
+   
+   **▫️** May had the highest RPR and January had the lowest RPR.
+  
  
 **1.Top Cities by Revenue Contribution:**
 Jaipur (₹37.21M), Kochi (₹17.00M), and Chandigarh (₹11.06M) are the top 3 cities by revenue contribution.
