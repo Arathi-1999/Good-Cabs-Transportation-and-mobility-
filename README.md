@@ -33,7 +33,7 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 
 ![Dashboard](Screenshots/PA1.1.jpg)
-![Dashboard](Screenshots/PA1.2.png)
+![Dashboard](Screenshots/PA1.2.jpg)
 
 
    **▫️** **Jaipur** is the top performing city with the highest total trips, followed by **Lucknow** and **Surat**.
@@ -44,6 +44,8 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 ## 2. Average Fare Per Trip by City:
 
+![Dashboard](Screenshots/PA2.jpg)
+
    **▫️** **Jaipur** ranks first with an average Fare of **₹484** per trip and an average trip distance of **30km** , indicating a high fare efficiency relative to the distance.  
  
    **▫️** **Surat** ranks lowest with an average Fare of **₹117** per trip and an average trip distance of **11km**, indicating a potential gap in pricing efficiency.
@@ -51,6 +53,8 @@ The dataset spans from January 1, 2024, to June 30, 2024.
    ----------------------------------------
 
 ## 3.  Average Ratings by City and Passenger Type:
+
+![Dashboard](Screenshots/PA3.jpg)
 
    **▫️** **Kochi**, **Jaipur** and **Mysore** have highest Avg Passenger Ratings and Driver Ratings.
    
@@ -60,6 +64,8 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 ## 4. Peak and Low Demand Month by City:
 
+![Dashboard](Screenshots/PA4.jpg)
+
    **▫️**Peak demand month: February , April and May
    
    **▫️**Low demand month: January and June.
@@ -67,6 +73,8 @@ The dataset spans from January 1, 2024, to June 30, 2024.
   -----------------------------------------
 
  ## 5. Weekend vs Weekday Trip Demand by City:
+
+![Dashboard](Screenshots/PA5.jpg)
  
    **▫️** Weekday trips are highest in **Lucknow** followed by **Jaipur** and **Surat**.  
  
@@ -75,6 +83,10 @@ The dataset spans from January 1, 2024, to June 30, 2024.
   -------------------------------------------
 
  ## 6. Repeat Passenger Frequency and City Contribution Analysis:
+
+![Dashboard](Screenshots/PA6.jpg)
+![Dashboard](Screenshots/PA6.1.jpg)
+![Dashboard](Screenshots/PA6.2.jpg)
 
   **▫️**Higher trips count like **9-trips** and **10- trips** have very less repeat trips %.
 
@@ -88,6 +100,8 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 ## 7. Monthly Target Achivement:
 
+![Dashboard](Screenshots/PA7.jpg)
+
    **▫️** Top Performer: Visakhapatnam (Achieved near 100% targets)
    
    **▫️**Bottom Performer: Surat (Challenges in total trips and passenger ratings)
@@ -95,6 +109,10 @@ The dataset spans from January 1, 2024, to June 30, 2024.
   -------------------------------------------
    
   ## 8. Highest and Lowest Repeat Passenger Rate (RPR) by City and Month:
+
+![Dashboard](Screenshots/PA8.1.jpg)
+![Dashboard](Screenshots/PA8.2.jpg)
+![Dashboard](Screenshots/PA8.3.jpg)
   
    **▫️** Top 2 cities: Surat followed by Lucknow were top 2 cities with highest RPR%.
    
