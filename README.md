@@ -31,7 +31,9 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 ## 1. Top Performing Cities:
 
+
 ![Dashboard](Screenshots/PA1.1.png)
+![Dashboard](Screenshots/PA1.2.png)
 
 
    **▫️** **Jaipur** is the top performing city with the highest total trips, followed by **Lucknow** and **Surat**.
