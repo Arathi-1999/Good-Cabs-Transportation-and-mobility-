@@ -189,3 +189,5 @@ Driver data: Availability, on-time performance, and training status.
 
    ---------------------------------------------
 
+## Live Interactive Dashboard 
+**https://app.powerbi.com/view?r=eyJrIjoiODNiOTE3Y2UtZDA2My00MmYzLThhOTAtYjc3NDA5MGM0MTUyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
